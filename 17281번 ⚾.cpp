@@ -44,5 +44,5 @@ int main() {
 		}
 		if(maxi < sc) maxi = sc;
 	} while (next_permutation(pro, pro + 8));
-	printf("%d", maxi);
+	printf("%d", maxi); 
 }
